@@ -1,0 +1,11 @@
+&INPUTPP
+ outdir='../tmp/',
+ prefix='si',
+ plot_num=0,
+/
+&PLOT
+ iflag=3,
+ output_format=6,
+ fileout='si_rho.cube',
+ nx=64,ny=64,nz=64,
+/

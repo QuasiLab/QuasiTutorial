@@ -4,7 +4,7 @@ Repositori ini berisi tutorial mengenai materi-materi terkait teori
 dan komputasi material.  Tutorial yang disediakan disusun oleh Tim
 dari QUASI atau QUAntum design and SImulation Laboratory, Pusat
 Riset Fisika Kuantum BRIN.  Silakan kunjungi kami melalui
-[quasi.id](https://quasi.id)
+[quasi.id](https://quasi.id) dan [quantumresearch.id](https://quantumresearch.id)
 
 ---
 
